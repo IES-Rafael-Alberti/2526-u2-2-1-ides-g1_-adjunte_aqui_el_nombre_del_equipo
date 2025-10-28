@@ -1,6 +1,6 @@
 # Tabla Comparativa de IDEs
 
-## Grupo: [Nombre del grupo o iniciales de los 5 integrantes]
+## Grupo: G1_(adjunte_aqui_el_nombre_del_equipo)
 
 ### IDEs Analizados
 1. IDE de DBH - VS CODE
