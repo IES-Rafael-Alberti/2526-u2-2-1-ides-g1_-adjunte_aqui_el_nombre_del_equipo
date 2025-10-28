@@ -16,25 +16,25 @@
 
 ### Tabla Comparativa
 
-| Característica                        | VS Code | WebStorm | Fleet | IntelliJ IDEA | PyCharm |
-|----------------------------------------|---------|----------|-------|---------------|---------|
-| **Lenguajes soportados**               | +30 (JS, TS, Python, Java, C/C++, etc.) | JS, TS, HTML, CSS, Node | JS, TS, Python, Java, Go, etc. | Java, Kotlin, Groovy, Scala, + | Python, JS, HTML, etc. |
-| **Velocidad de carga**                 | Muy rápida | Rápida | Rápida | Media | Media |
-| **Soporte para extensiones/plugins**   | Excelente (Marketplace) | Muy bueno (JetBrains plugins) | Bueno (JetBrains plugins) | Excelente (JetBrains plugins) | Excelente (JetBrains plugins) |
-| **Depurador**                          | Bueno (depuradores integrados/extensiones) | Avanzado | Avanzado | Avanzado | Avanzado |
-| **Refactorización**                    | Básico (con extensiones) | Muy avanzado | Avanzado | Muy avanzado | Muy avanzado |
-| **Autocompletado de código**           | Bueno (IntelliSense) | Avanzado | Avanzado | Avanzado | Avanzado |
-| **Control de versiones (Git)**         | Integrado y extensible | Integrado | Integrado | Integrado | Integrado |
-| **Automatización de tareas**           | Terminal integrado, tareas configurables | Integración con npm, Gulp, etc. | Terminal integrado | Integración con Gradle/Maven | Integración con herramientas Python |
-| **Soporte para múltiples lenguajes**   | Sí | Limitado (foco JS/TS) | Sí | Sí | Sí (principalmente Python) |
-| **Personalización del entorno**        | Muy alta | Alta | Alta | Alta | Alta |
-| **Integración con bases de datos**     | Extensiones | Integrado (DataGrip) | Integrado | Integrado | Integrado |
-| **Pruebas automatizadas**              | Extensiones | Integrado | Integrado | Integrado | Integrado |
-| **Soporte para frameworks**            | Extensiones | Muy bueno (JS frameworks) | Bueno | Muy bueno | Muy bueno (Django, Flask, etc.) |
-| **Configuración de entornos virtuales**| Extensiones | Integrado | Integrado | Integrado | Integrado (venv, conda) |
-| **Herramientas de análisis de código** | Extensiones | Integrado | Integrado | Integrado | Integrado |
-| **Soporte para compilación/Maven/Gradle** | Extensiones | Integrado | Integrado | Integrado | Integrado (para Python) |
-| **Precio/licencia**                    | Gratis | Pago | Pago | Pago (Community gratis) | Pago (Community gratis) |
+| Característica                        | VS Code          | WebStorm         | Fleet           | IntelliJ IDEA    | PyCharm         |
+|---------------------------------------|------------------|------------------|-----------------|------------------|-----------------|
+| **Lenguajes soportados**              | ✅ +30 (JS, TS, Python, Java, C/C++, etc.) | ⚠️ JS, TS, HTML, CSS, Node | ✅ JS, TS, Python, Java, Go, etc. | ✅ Java, Kotlin, Groovy, Scala, + | ⚠️ Python, JS, HTML, etc. |
+| **Velocidad de carga**                | ✅ Muy rápida     | ⚠️ Rápida        | ⚠️ Rápida       | ⚠️ Media          | ⚠️ Media         |
+| **Soporte para extensiones/plugins**  | 🔌 Excelente (Marketplace) | 🔌 Muy bueno (JetBrains plugins) | 🔌 Bueno (JetBrains plugins) | 🔌 Excelente (JetBrains plugins) | 🔌 Excelente (JetBrains plugins) |
+| **Depurador**                         | 🔌 Bueno (depuradores integrados/extensiones) | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      |
+| **Refactorización**                   | ⚠️ Básico (con extensiones) | ✅ Muy avanzado  | ✅ Avanzado      | ✅ Muy avanzado  | ✅ Muy avanzado  |
+| **Autocompletado de código**          | 🔌 Bueno (IntelliSense) | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      |
+| **Control de versiones (Git)**        | ✅ Integrado y extensible | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
+| **Automatización de tareas**          | 🔌 Terminal integrado, tareas configurables | 🔌 Integración con npm, Gulp, etc. | 🔌 Terminal integrado | 🔌 Integración con Gradle/Maven | 🔌 Integración con herramientas Python |
+| **Soporte para múltiples lenguajes**  | ✅ Sí             | ⚠️ Limitado (foco JS/TS) | ✅ Sí           | ✅ Sí            | ⚠️ Sí (principalmente Python) |
+| **Personalización del entorno**       | ✅ Muy alta       | ✅ Alta          | ✅ Alta         | ✅ Alta          | ✅ Alta          |
+| **Integración con bases de datos**    | 🔌 Extensiones    | ✅ Integrado (DataGrip) | ✅ Integrado    | ✅ Integrado     | ✅ Integrado     |
+| **Pruebas automatizadas**             | 🔌 Extensiones    | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
+| **Soporte para frameworks**           | 🔌 Extensiones    | ✅ Muy bueno (JS frameworks) | ⚠️ Bueno       | ✅ Muy bueno     | ✅ Muy bueno (Django, Flask, etc.) |
+| **Configuración de entornos virtuales** | 🔌 Extensiones   | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado (venv, conda) |
+| **Herramientas de análisis de código**| 🔌 Extensiones    | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
+| **Soporte para compilación/Maven/Gradle** | 🔌 Extensiones  | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado (para Python) |
+| **Precio/licencia**                   | ✅ Gratis         | ❌ Pago          | ❌ Pago         | ⚠️ Pago (Community gratis) | ⚠️ Pago (Community gratis) |
 
 ---
 
