@@ -15,10 +15,10 @@
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
-[Tu respuesta aquí]
+*   Personalicé el entorno cambiando el **tema visual** en ambos editores, lo que redujo el cansancio visual y permitió trabajar de manera más cómoda durante sesiones largas. Además, creé **atajos de teclado personalizados** para acciones frecuentes, como abrir el panel de problemas en VS Code y comentar/descomentar líneas en WebStorm.
 
 ### Pregunta 2: ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
-[Tu respuesta aquí]
+*   En VS Code, activé el **guardado automático de archivos** desde los ajustes, lo que evita pérdidas accidentales y garantiza que los cambios se guarden constantemente sin intervención manual. En WebStorm, configuré la **limpieza automática al guardar** directamente desde los ajustes, asegurando que el código esté siempre ordenado y limpio sin esfuerzo adicional.
 
 ## Evidencias
 **ANTES:**

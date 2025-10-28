@@ -29,6 +29,3 @@ print("¡Despegue!")
 ## Evidencias
 ![Ejecución en IDE 1](capturas/punto6_ide1_ejecucion.png)
 ![Ejecución en IDE 2](capturas/punto6_ide2_ejecucion.png)
-
-## Observaciones
-[Comentarios adicionales]

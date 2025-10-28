@@ -43,6 +43,3 @@
 ![Instalación IDE 2](capturas/punto1_ide2_instalacion_paso2.png)
 ![Instalación IDE 2](capturas/punto1_ide2_instalacion_paso3.png)
 ![Instalación IDE 2](capturas/punto1_ide2_instalacion_paso4.png)
-
-## Observaciones
-[Comentarios adicionales sobre el proceso de instalación]

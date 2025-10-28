@@ -24,8 +24,8 @@
     *   **Key Promoter X** es una herramienta de aprendizaje excelente que te notifica el atajo de teclado correspondiente a una acción que realizas con el ratón, ayudándote a ser más rápido y eficiente con el tiempo.
 
 ## Evidencias
-![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones.png)
-![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones.png)
-
-## Observaciones
-[Comentarios adicionales]
+![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones_liveserver.png)
+![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones_codesnap.png)
+![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones_brackets.png)
+![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones_indents.png)
+![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones_key_promoter.png)

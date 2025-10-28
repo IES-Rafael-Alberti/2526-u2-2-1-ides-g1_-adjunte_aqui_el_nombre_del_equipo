@@ -27,6 +27,3 @@ Es fundamental por cuatro razones muy simples:
 ## Evidencias
 ![Configuración actualizaciones IDE 1](capturas/punto4_ide1_actualizaciones.png)
 ![Configuración actualizaciones IDE 2](capturas/punto4_ide2_actualizaciones.png)
-
-## Observaciones
-[Comentarios adicionales]
