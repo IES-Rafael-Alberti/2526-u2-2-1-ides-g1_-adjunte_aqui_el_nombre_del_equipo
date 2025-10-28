@@ -24,7 +24,7 @@ En mi caso he elegido dos IDE que pertenecen a JetBrains: *Fleet* e *IntelliJ ID
 
 ### Pregunta 1: ¿Qué diferencias encontraste en el proceso de instalación entre el IDE propietario y el libre?
 
-Ambos IDE se instalaron de la misma forma, ya que pertenecen a la misma empresa, por lo que no hay diferencia más allá de seleccionar el IDE deseado.
+En cuanto a la instalación en sí, ambos IDE se instalaron de la misma forma, ya que pertenecen a la misma empresa, por lo que no hay diferencia más allá de seleccionar el IDE deseado. Pero hay que tener en cuenta que si fueramos clientes regulares, y no estudiantes, para poder usar IntelliJ IDEA Ultimate habría que pagar una suscripción
 
 ### Pregunta 2: ¿Qué ventajas identificaste en cada uno de los entornos durante la instalación?
 
