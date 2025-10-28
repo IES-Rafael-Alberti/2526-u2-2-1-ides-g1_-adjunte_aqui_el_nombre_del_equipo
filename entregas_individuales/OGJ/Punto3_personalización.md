@@ -23,13 +23,13 @@
 
 - Tema: One Pauxiti Orange ++
 
-    <img src="capturas/tema_pycharm.png" width="400" height="225">
+    <img src="capturas/tema_pycharm.png" width="200" height="250">
 
 - Atajos de teclado: New Terminal > ctrl + shift + z
 
 - Automatización: Adicion de los progrmas con extension .py a src
 
-    <img src="capturas/Automatizacion.png " width="400" height="225">
+    <img src="capturas/Automatizacion.png " width="450" height="300">
 
 ## Respuestas a preguntas evaluativas
 

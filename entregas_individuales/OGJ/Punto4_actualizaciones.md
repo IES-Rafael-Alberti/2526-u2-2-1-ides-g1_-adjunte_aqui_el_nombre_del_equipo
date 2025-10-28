@@ -10,9 +10,9 @@
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
-Ambos IDEs se configuran desde la Toolbox ya que la propia Toolbox de Jetbrains permite actualizar de forma automática las herramientas.
+Ambos IDEs se configuran desde la Toolbox, ya que la propia Toolbox de Jetbrains permite actualizar de forma automática las herramientas.
 
-<img src="capturas/Actualizacion_automática.png.png" width="400" height="225">
+<img src="capturas/Actualizacion_automática.png" width="350" height="425">
 
 ### Pregunta 2: ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
 Porque suelen ser más seguras, adquirir nuevas funcionalidades que pueden mejorar tu productividad.
