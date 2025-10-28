@@ -12,6 +12,9 @@ Explica el proceso de instalación de ambos IDEs, sistema operativo utilizado, e
 **1. Instalación de la toolbox de Jetbrains**
 
 - Acceder a la página de la Toolbox de Jetbrains (https://www.jetbrains.com/toolbox-app/)
+
+<img src="capturas/Pagina_Jetbrains.png"  width="200" height="150">
+
 - En Windows, descarga el instalador (.exe) desde la página y ejecuta el archivo para acceder a la Toolbox.
 - En Linux, descarga el archivo (.tar.gz), descomprímelo mediante el comando (unzip <nombre_del_archivo>.zip -d ./<nombre_carpeta_destino>). Una vez descomprimido en la carpeta haz doble clic en el ejecutable y a partir de esa ejecución aparecera en el apartado de aplicaciones.
 - En macOS, descarga el archivo (.dmg), abre el archivo y añade la Toolbox a tu carpeta de Aplicaciones.
