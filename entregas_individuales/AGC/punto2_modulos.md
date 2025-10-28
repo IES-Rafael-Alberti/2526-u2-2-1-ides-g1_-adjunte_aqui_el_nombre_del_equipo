@@ -29,7 +29,14 @@
 
 
 ### Pregunta 2: ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
-[Tu respuesta aquí]
+
+**Fleet**:
+
+Lo que hace es pintar con diferentes colores los brackets (paréntesis, corchetes, llaves y flechas). Viene muy bien si tienes un código con varias identaciones ya que te marcan cuando empieza y cuando acaba.
+
+**IntelliJ IDEA**:
+
+Sirve para comprobar que el programa funciona de forma correcta ante cualquier circunstancia, con el que podemos ahorrarnos tiempos y ganar seguridad.
 
 ## Evidencias
 ![Panel de extensiones IDE 1](https://github.com/IES-Rafael-Alberti/2526-u2-2-1-ides-g1_-adjunte_aqui_el_nombre_del_equipo/blob/main/entregas_individuales/AGC/capturas/extension%20fleet.png)
