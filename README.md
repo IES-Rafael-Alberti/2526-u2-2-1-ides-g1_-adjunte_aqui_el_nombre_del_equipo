@@ -10,9 +10,9 @@
 
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
-| [Nombre Alumno 1] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
+| Oscar García Jaen | ogarjae565@g.educaand.es | OGJ |
+| Dylan Bauti Huelva | dbauhue1708@g.educaand.es | DBH |
+| Aarón Gallardo Canto | agalcan1410@g.educaand.es | AGC |
 | [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
 | [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
 
