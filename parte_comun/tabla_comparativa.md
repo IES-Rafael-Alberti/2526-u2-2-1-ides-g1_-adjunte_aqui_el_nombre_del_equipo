@@ -3,22 +3,22 @@
 ## Grupo: [Nombre del grupo o iniciales de los 5 integrantes]
 
 ### IDEs Analizados
-1. [IDE del Alumno 1 - IDE 1]
-2. [IDE del Alumno 1 - IDE 2]
-3. [IDE del Alumno 2 - IDE 1]
-4. [IDE del Alumno 2 - IDE 2]
-5. [IDE del Alumno 3 - IDE 1]
-6. [IDE del Alumno 3 - IDE 2]
-7. [IDE del Alumno 4 - IDE 1]
-8. [IDE del Alumno 4 - IDE 2]
-9. [IDE del Alumno 5 - IDE 1]
-10. [IDE del Alumno 5 - IDE 2]
+1. [IDE del Alumno 1 - PYCHARM]
+2. [IDE del Alumno 1 - VS CODE]
+3. [IDE del Alumno 2 - PYCHARM]
+4. [IDE del Alumno 2 - VS CODE]
+5. [IDE del Alumno 3 - PYCHARM]
+6. [IDE del Alumno 3 - VS CODE]
+7. [IDE del Alumno 4 - PYCHARM]
+8. [IDE del Alumno 4 - VS CODE]
+9. [IDE del Alumno 5 - PYCHARM]
+10. [IDE del Alumno 5 - VS CODE]
 
 ---
 
 ## Tabla Comparativa
 
-| Característica | IDE 1 | IDE 2 | IDE 3 | IDE 4 | IDE 5 | IDE 6 | IDE 7 | IDE 8 | IDE 9 | IDE 10 |
+| Característica | PYCHARM | VS CODE | WEBSTORM | FLEET | IDE 5 | IDE 6 | IDE 7 | IDE 8 | IDE 9 | PYCHARM0 |
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
 | **Lenguajes soportados** | | | | | | | | | | |
 | **Velocidad de carga** | | | | | | | | | | |
@@ -42,16 +42,16 @@
 
 ## Observaciones por IDE
 
-### [Nombre IDE 1]
+### [Nombre PYCHARM]
 [Comentarios relevantes]
 
-### [Nombre IDE 2]
+### [Nombre VS CODE]
 [Comentarios relevantes]
 
-### [Nombre IDE 3]
+### [Nombre WEBSTORM]
 [Comentarios relevantes]
 
-### [Nombre IDE 4]
+### [Nombre FLEET]
 [Comentarios relevantes]
 
 ### [Nombre IDE 5]
@@ -69,7 +69,7 @@
 ### [Nombre IDE 9]
 [Comentarios relevantes]
 
-### [Nombre IDE 10]
+### [Nombre PYCHARM0]
 [Comentarios relevantes]
 
 ---
