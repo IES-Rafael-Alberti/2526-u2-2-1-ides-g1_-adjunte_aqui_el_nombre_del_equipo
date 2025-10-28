@@ -38,8 +38,5 @@ Instalación de la ToolBox:
 
 Instalación de los IDE 
 
-![Instalación Fleet](capturas/punto1_ide2_instalacion.png)
-![Instalación FleeIntelliJ IDEA](capturas/punto1_ide2_instalacion.png)
-
-## Observaciones
-[Comentarios adicionales sobre el proceso de instalación]
+![Instalación Fleet](https://github.com/IES-Rafael-Alberti/2526-u2-2-1-ides-g1_-adjunte_aqui_el_nombre_del_equipo/blob/main/entregas_individuales/AGC/capturas/descarga%20fleet.png)
+![Instalación FleeIntelliJ IDEA](https://github.com/IES-Rafael-Alberti/2526-u2-2-1-ides-g1_-adjunte_aqui_el_nombre_del_equipo/blob/main/entregas_individuales/AGC/capturas/descarga%20idea.png)
