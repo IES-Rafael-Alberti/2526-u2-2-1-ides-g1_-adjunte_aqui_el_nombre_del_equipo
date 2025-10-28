@@ -26,7 +26,7 @@
 | **Autocompletado de código**          | 🔌 Bueno (IntelliSense) | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      | ✅ Avanzado      |
 | **Control de versiones (Git)**        | ✅ Integrado y extensible | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
 | **Automatización de tareas**          | 🔌 Terminal integrado, tareas configurables | 🔌 Integración con npm, Gulp, etc. | 🔌 Terminal integrado | 🔌 Integración con Gradle/Maven | 🔌 Integración con herramientas Python |
-| **Soporte para múltiples lenguajes**  | ✅ Sí             | ⚠️ Limitado (foco JS/TS) | ✅ Sí           | ✅ Sí            | ⚠️ Sí (principalmente Python) |
+| **Soporte para múltiples lenguajes**  | ✅ Sí             | ⚠️ Limitado (JS/TS) | ✅ Sí           | ✅ Sí            | ⚠️ Sí (principalmente Python) |
 | **Personalización del entorno**       | ✅ Muy alta       | ✅ Alta          | ✅ Alta         | ✅ Alta          | ✅ Alta          |
 | **Integración con bases de datos**    | 🔌 Extensiones    | ✅ Integrado (DataGrip) | ✅ Integrado    | ✅ Integrado     | ✅ Integrado     |
 | **Pruebas automatizadas**             | 🔌 Extensiones    | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
