@@ -3,14 +3,14 @@
 ## Grupo: [Nombre del grupo o iniciales de los 5 integrantes]
 
 ### IDEs Analizados
-1. [IDE del Alumno 1 - VS CODE]
-2. [IDE del Alumno 1 - WEBSTORM]
-3. [IDE del Alumno 2 - FLEET]
-4. [IDE del Alumno 2 - INTELLIJ IDEA]
-5. [IDE del Alumno 3 - FLEET]
-6. [IDE del Alumno 3 - PYCHARM]
-7. [IDE del Alumno 4 - VS CODE]
-8. [IDE del Alumno 4 - PYCHARM]
+1. IDE de DBH - VS CODE
+2. IDE de DBH - WEBSTORM
+3. IDE de AGC - FLEET
+4. IDE de AGC - INTELLIJ IDEA
+5. IDE de OGJ - FLEET
+6. IDE de OGJ - PYCHARM
+7. IDE de MMB - VS CODE
+8. IDE de MMB - PYCHARM
 
 ---
 
@@ -41,20 +41,19 @@
 ## Observaciones por IDE
 
 ### PyCharm
-Especializado en desarrollo Python. Destaca por su refactorización avanzada, integración con frameworks como Django y Flask, y herramientas de análisis de código. Su integración con entornos virtuales y bases de datos facilita el desarrollo profesional en Python. La versión Community es gratuita, pero la Professional es de pago.
+Especializado en desarrollo Python. Destaca por su refactorización, integración con frameworks como **Django** y **Flask**, y herramientas de análisis de código. Su integración con entornos virtuales y bases de datos facilita el desarrollo en Python. La versión *Community* es gratuita, pero la *Professional* es de pago.
 
 ### VS Code
-Extremadamente popular por ser gratuito, ligero y muy personalizable mediante extensiones. Compatible con múltiples lenguajes y tecnologías, su velocidad de carga y soporte de Git lo hacen ideal para proyectos variados. Aunque sus funciones avanzadas dependen de extensiones, su comunidad es enorme y activa.
+Es el mas conocido por ser gratuito, ligero y muy personalizable mediante extensiones. Compatible con múltiples lenguajes, su velocidad de carga y soporte de Git lo hacen ideal para proyectos. Aunque sus funciones avanzadas dependen de extensiones, su comunidad es enorme y activa.
 
 ### WebStorm
-Recomendado para desarrollo web con JavaScript y TypeScript. Ofrece herramientas integradas para frameworks modernos como React, Angular y Vue, además de refactorización avanzada y depurador robusto. Su integración con bases de datos y control de versiones es nativa. Es de pago, pero su calidad y soporte justifican el precio.
+Recomendado para desarrollo web con JavaScript y TypeScript. Ofrece herramientas integradas para frameworks modernos como **React**, **Angular** y **Vue**, además de refactorización avanzada. Su integración con bases de datos y control de versiones es nativa. Es de pago, pero su calidad justifica el precio.
 
 ### Fleet
-IDE moderno de JetBrains, enfocado en agilidad y colaboración en tiempo real. Soporta varios lenguajes y tiene integración con plugins JetBrains. Destaca por su rapidez y entorno minimalista, ideal para equipos distribuidos. Actualmente en desarrollo activo, puede que algunas funciones sean menos maduras que en los IDEs clásicos.
+IDE moderno de JetBrains, enfocado en agilidad y colaboración en tiempo real. Soporta varios lenguajes. Destaca por su rapidez y entorno minimalista. Actualmente en desarrollo activo, puede que algunas funciones esten menos pulidas que en los IDEs clásicos.
 
 ### IntelliJ IDEA
-Uno de los IDEs más completos para desarrollo en Java y otros lenguajes JVM. Su soporte para frameworks, herramientas de análisis, integración con sistemas de compilación (Maven, Gradle) y pruebas automatizadas es sobresaliente. Dispone de versión gratuita (Community) y de pago (Ultimate).
-
+Uno de los IDEs más completos para desarrollo en Java y otros lenguajes JVM. Su soporte para frameworks, herramientas de análisis, integración con sistemas de compilación (Maven, Gradle) y pruebas automatizadas es sobresaliente. La versión *Community* es gratuita, pero la *Professional* es de pago.
 
 ---
 
