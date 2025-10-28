@@ -13,14 +13,28 @@
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?
-[Tu respuesta aquí]
+
+**Fleet**:
+
+1. Una vez dentro del IDE, pinchamos en la esquina superior derecha, donde se encuentra un engranaje. Una vez ahí, buscamos la opción de *plugins*
+2. Tendremos en pantalla un buscador, en el cual buscaremos el nombre del *plugin* (en este caso *Rainbow Brackets for Fleet*) 
+3. Una vez lo encontremos, le damos a *Add Globally* y reiniciamos el IDE.
+
+**IntelliJ IDEA**:
+
+1. Una vez dentro del IDE, pinchamos en la esquina superior derecha, donde se encuentra un engranaje. Una vez ahí, buscamos la opción de *plugins*
+2. Tendremos en pantalla un buscador, en el cual buscaremos el nombre del *plugin* (en este caso *Kotest*) 
+3. Una vez lo encontremos, le damos a *Install* y reiniciamos el IDE.
+
+
 
 ### Pregunta 2: ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 [Tu respuesta aquí]
 
 ## Evidencias
-![Panel de extensiones IDE 1](../DBH/capturas/punto2_ide1_extensiones.png)
-![Panel de extensiones IDE 2](../DBH/capturas/punto2_ide2_extensiones.png)
+![Panel de extensiones IDE 1](https://github.com/IES-Rafael-Alberti/2526-u2-2-1-ides-g1_-adjunte_aqui_el_nombre_del_equipo/blob/main/entregas_individuales/AGC/capturas/extension%20fleet.png)
 
-## Observaciones
-[Comentarios adicionales]
+
+![Panel de extensiones IDE 2](https://github.com/IES-Rafael-Alberti/2526-u2-2-1-ides-g1_-adjunte_aqui_el_nombre_del_equipo/blob/main/entregas_individuales/AGC/capturas/extension%20idea.png)
+
+Me aparece *disable* en lugar de *install* porque ya la tenía descargada
