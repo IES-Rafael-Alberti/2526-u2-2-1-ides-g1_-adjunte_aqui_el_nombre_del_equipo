@@ -9,13 +9,13 @@ En mi caso he elegido dos IDE que pertenecen a JetBrains: *Fleet* e *IntelliJ ID
 
 > Hay que tener en cuenta que *Fleet* actualmente es de uso libre ya que JetBrains todavía lo mantiene en fase *public review*, pero una vez esta termine pasará a ser un IDE propietario. 
 
-1. **Descargar el Gestor (Toolbox App):**
+1. **Descargar el Gestor (Toolbox):**
     - Hay que ir a la página oficial de JetBrains Toolbox: `https://www.jetbrains.com/es-es/toolbox-app/`
     - Descargamos el archivo correspondiente al sistema operativo (Windows `.exe`, macOS `.dmg` o Linux `.tar.gz`).
 2. **Instalar el Gestor:**
     - Ejecutamos el instalador que nos hemos descargado.
 3. **Usar el Gestor para Instalar tus IDEs:**
-    - Una vez instalado, abrimos la "Toolbox App". Aparecerá un icono en la barra de tareas.
+    - Una vez instalado, abrimos la "Toolbox". Aparecerá un icono en la barra de tareas.
     - Dentro de la aplicación, hay una lista de todos los IDE de JetBrains.
     - Buscamos **IntelliJ IDEA** y **Fleet**.
     - Hacemos clic en el botón "Instalar" que aparece junto a cada uno.
