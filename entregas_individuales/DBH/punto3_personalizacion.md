@@ -22,16 +22,16 @@
 
 ## Evidencias
 **ANTES:**
-![Entorno antes IDE 1](../DBH/capturas/punto3_ide1_antes.png)
-![Entorno antes IDE 2](../DBH/capturas/punto3_ide2_antes.png)
+![Entorno antes IDE 1](capturas/punto3_ide1_antes.png)
+![Entorno antes IDE 2](capturas/punto3_ide2_antes.png)
 
 **DESPUÉS:**
-![Entorno después IDE 1](../DBH/capturas/punto3_ide1_despues.png)
-![Entorno después IDE 2](../DBH/capturas/punto3_ide2_despues.png)
+![Entorno después IDE 1](capturas/punto3_ide1_despues.png)
+![Entorno después IDE 2](capturas/punto3_ide2_despues.png)
 
 **AUTOMATIZACIÓN:**
-![Automatización IDE 1](../DBH/capturas/punto3_ide1_automatizacion.png)
-![Automatización IDE 2](../DBH/capturas/punto3_ide2_automatizacion.png)
+![Automatización IDE 1](capturas/punto3_ide1_automatizacion.png)
+![Automatización IDE 2](capturas/punto3_ide2_automatizacion.png)
 
 ## Observaciones
 [Comentarios adicionales]

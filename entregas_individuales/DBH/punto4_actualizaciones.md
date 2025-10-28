@@ -16,8 +16,8 @@
 [Tu respuesta aquí]
 
 ## Evidencias
-![Configuración actualizaciones IDE 1](../DBH/capturas/punto4_ide1_actualizaciones.png)
-![Configuración actualizaciones IDE 2](../DBH/capturas/punto4_ide2_actualizaciones.png)
+![Configuración actualizaciones IDE 1](capturas/punto4_ide1_actualizaciones.png)
+![Configuración actualizaciones IDE 2](capturas/punto4_ide2_actualizaciones.png)
 
 ## Observaciones
 [Comentarios adicionales]
