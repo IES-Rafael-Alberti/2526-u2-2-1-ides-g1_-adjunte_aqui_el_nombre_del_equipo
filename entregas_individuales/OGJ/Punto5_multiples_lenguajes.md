@@ -25,7 +25,7 @@ Programa "cuenta atrás" que cuenta de 10 a 0 y luego imprime "¡Despegue!"
     }
 ```
 
-### Lenguaje 2: [Java]
+### Lenguaje 2: [Kotlin]
 ```
     fun main() {
         for (i in 10 downTo 0) {

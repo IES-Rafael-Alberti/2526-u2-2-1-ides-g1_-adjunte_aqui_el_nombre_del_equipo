@@ -6,7 +6,9 @@
 ## Resumen de Puntos Destacables
 
 ### Puntos individuales más relevantes
-[Aquí el grupo destaca solo los puntos más interesantes de los trabajos individuales]
+Nos ha parecido bastante interesando
+[Snippets]()
+
 
 #### Instalación (Punto 1)
 - **Mejor experiencia de instalación:** Visual Studio Code
@@ -105,5 +107,5 @@ Depende del lenguaje de programación con el que se vaya a trabajar:
 ---
 
 ## Conclusiones finales del grupo
+En conclusión, cada IDE ofrece ventajas exclusivas respecto a los demás, en nuestra opinión, lo más recomendable es utilizar un IDE u otro según la finalidad, por ejemplo, para proyectos grandes y complejos usaría IDEs dedicados como Webstorm, PyCharm o IntelliJ (ya depende también de los lenguajes requeridos), mientras que para proyectos simples recomendamos usar VS Code. En resumen, hemos aprendido a seleccionar el IDE correcto acorde al trabajo que debamos realizar.
 
-[Reflexión conjunta sobre los IDEs analizados, lecciones aprendidas y recomendaciones]
