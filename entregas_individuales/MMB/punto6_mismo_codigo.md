@@ -11,19 +11,25 @@ Programa "cuenta atrás" en Python que cuenta de 10 a 0 y luego imprime "¡Despe
 
 ```python
 # Código Python del programa cuenta atrás
-[Tu código aquí]
+for i in range(10, -1, -1):
+    print(i)
+
+print("¡Despegue!")
 ```
 
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
-[Tu respuesta aquí]
+Las diferencias que he encontrado al ejecutar el programa en VS Code y en PyCharm son las siguientes: en PyCharm, en la generación de ejecutables entra en juego las herramientas integradas en el IDE como la gestión de intérpretes, entornos virtuales y configuraciones de ejecución. PyCharm permite crear y gestionar automáticamente entornos virtuales, lo cual facilita la portabilidad del código a otros sistemas. En VS Code el proceso de generar el ejecutable requiere más la intervención del programador, ya que hay que configurar el intérprete de Python, los entornos virtuales y las rutas de ejecución desde las extensiones o la configuración.
 
 ### Pregunta 2: ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?
-[Tu respuesta aquí]
+PyCharm me ha parecido mucho más cómodo, ya que en VS Code he tenido que instalar varias extensiones de Python para poder ejecutar el programa, debugearlo... Mientras que PyCharm integra herramientas automáticas para Python; autocompletado, resaltado de sintaxis y detección de errores del código.
 
 ## Evidencias
-![Ejecución en IDE 1](../DBH/capturas/punto6_ide1_ejecucion.png)
-![Ejecución en IDE 2](../DBH/capturas/punto6_ide2_ejecucion.png)
+### Ejecución en VS Code
+![Ejecución en VS Code](/entregas_individuales/MMB/capturas/punto_5_programa_python.png)
+
+### Ejecución en PyCharm
+![Ejecución en PyCharm](/entregas_individuales/MMB/capturas/punto_6_python_pycharm.png)
 
 
