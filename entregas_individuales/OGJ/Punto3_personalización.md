@@ -1,7 +1,7 @@
 # Punto 3: Personalización y automatización del entorno
 
 ## IDEs utilizados
-**IDE 1:** [Pycharm Professional] - Versión 25.2.4
+**IDE 1:** [PyCharm Professional] - Versión 25.2.4
 **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
@@ -19,7 +19,7 @@ Explico qué personalizaciones realizé: tema, atajos de teclado, automatizació
 
     <img src="capturas/AutoIndent.png" width="400" height="225">
 
-**Pycharm**
+**PyCharm**
 
 - Tema: One Pauxiti Orange ++
 
@@ -37,4 +37,4 @@ Explico qué personalizaciones realizé: tema, atajos de teclado, automatizació
 Mejoró mi experiencia ya que ahora he adaptado mi IDE a mi y siento que soy más eficiente a la hora de desarrollar código.
 
 ### Pregunta 2: ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
-En fleet es una opcion que viene por defecto desactivada pero que mejora la experiencia de creación del código. En Pycharm es más lioso ya que hay que acceder mediante los ajustes, Tools y External Tools y ahí es donde se deben crear las automatizaciónes.
+En fleet es una opcion que viene por defecto desactivada pero que mejora la experiencia de creación del código. En PyCharm es más lioso ya que hay que acceder mediante los ajustes, Tools y External Tools y ahí es donde se deben crear las automatizaciónes.

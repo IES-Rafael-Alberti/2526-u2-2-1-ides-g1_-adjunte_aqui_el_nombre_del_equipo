@@ -5,7 +5,8 @@
 - **IDE 2:** IntelliJ IDEA
 
 ## Descripción de la tarea
-[Explica qué personalizaciones realizaste: tema, atajos de teclado, automatización de tareas]
+
+Añado temas, atajo de teclado y automatizaciones para poner los IDE más a mi gusto
 
 ### Personalizaciones realizadas
 - Tema: *Dark Purple* (en **Fleet**) y *Island Dark* (en **IntelliJ IDEA**)

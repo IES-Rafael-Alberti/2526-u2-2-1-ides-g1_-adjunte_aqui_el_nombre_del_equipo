@@ -1,7 +1,7 @@
 # Punto 4: Configuración del sistema de actualización del entorno de desarrollo
 
 ## IDEs utilizados
-**IDE 1:** [Pycharm Professional] - Versión 25.2.4
+**IDE 1:** [PyCharm Professional] - Versión 25.2.4
 **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea

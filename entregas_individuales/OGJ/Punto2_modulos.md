@@ -1,14 +1,14 @@
 # Punto 2: Gestión de módulos y extensiones en el entorno de desarrollo
 
 ## IDEs utilizados
-- **IDE 1:** Pycharm Professional - Versión 25.2.4
+- **IDE 1:** PyCharm Professional - Versión 25.2.4
 - **IDE 2:** Fleet - Versión 1.48.261
 
 ## Descripción de la tarea
 En este punto enseño como instalé los plugins y qué plugins instalé.
 
 - En Fleet: Rainbow Brackets for Fleet
-- En Pycharm: InlineError, One Puintxi Theme, InlineError, Pylint, Indent Raimbow y Rainbow Brackets. 
+- En PyCharm: InlineError, One Puintxi Theme, InlineError, Pylint, Indent Raimbow y Rainbow Brackets. 
 
 ## Respuestas a preguntas evaluativas
 
@@ -25,8 +25,8 @@ En este punto enseño como instalé los plugins y qué plugins instalé.
 
     <img src="capturas/Instalacion_plugin.png"  width="500" height="275">
 
-**Pycharm**
-- En Pycharm debes ir al menu File>Settings.
+**PyCharm**
+- En PyCharm debes ir al menu File>Settings.
 - Hacemos clic en Plugins y buscamos el que queramos.
 - Una vez encontrado le damos a instalar y listo.
 
