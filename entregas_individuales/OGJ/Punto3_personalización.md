@@ -5,7 +5,7 @@
 **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
-[Explica qué personalizaciones realizaste: tema, atajos de teclado, automatización de tareas]
+Explico qué personalizaciones realizé: tema, atajos de teclado, automatización de tareas
 
 ### Personalizaciones realizadas
 **Fleet:**

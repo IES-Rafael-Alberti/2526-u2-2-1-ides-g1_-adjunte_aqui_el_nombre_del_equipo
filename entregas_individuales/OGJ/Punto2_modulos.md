@@ -5,9 +5,8 @@
 - **IDE 2:** Fleet - Versión 1.48.261
 
 ## Descripción de la tarea
-[Explica qué extensiones/plugins instalaste en cada IDE]
+En este punto enseño como instalé los plugins y qué plugins instalé.
 
-Ejemplos:
 - En Fleet: Rainbow Brackets for Fleet
 - En Pycharm: InlineError, One Puintxi Theme, InlineError, Pylint, Indent Raimbow y Rainbow Brackets. 
 

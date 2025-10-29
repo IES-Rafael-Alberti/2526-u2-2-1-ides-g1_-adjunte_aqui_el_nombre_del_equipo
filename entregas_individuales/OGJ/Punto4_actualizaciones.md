@@ -5,7 +5,7 @@
 **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
-[Explica cómo configuraste el sistema de actualizaciones en cada IDE]
+Explico como automatizé las actualizaciones de los IDEs
 
 ## Respuestas a preguntas evaluativas
 

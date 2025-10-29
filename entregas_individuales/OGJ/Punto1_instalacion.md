@@ -5,7 +5,7 @@
 - **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
-Explica el proceso de instalación de ambos IDEs, sistema operativo utilizado, etc.
+Explico todo el proceso de instalación de ambos IDEs, sistema operativo utilizado, etc.
 
 ## Proceso de instalación
 
