@@ -50,55 +50,57 @@ A diferencia de los demás IDEs, Fleet no tiene integración de control de versi
 
 ### 2. ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
 
-[Respuesta del grupo]
+Respecto al manejo de módulos, todos los IDEs manejan los módulos de manera similar, todos los IDEs son ampliamente personalizables (sobre todo VS Code por sus plugins) menos Fleet que no tiene variedad de plugins descargables. Todos lo IDEs generan ejecutables de la misma forma.
 
 ---
 
 ### 3. ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
 
 [Respuesta del grupo, desglosando por tipo de proyecto:]
-- **Python/Data Science:** [IDE recomendado]
-- **Java/Kotlin:** [IDE recomendado]
-- **Desarrollo web:** [IDE recomendado]
-- **Principiantes:** [IDE recomendado]
+- **Python/Data Science:** PyCharm
+- **Java/Kotlin:** IntelliJ
+- **Desarrollo web:** Webstorm
+- **Principiantes:** VS Code
 
 ---
 
 ### 4. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
 
-[Respuesta del grupo]
+Depende del lenguaje de programación con el que se vaya a trabajar:
+- Python: PyCharm es la mejor opción ya que integra todo lo necesario para desarrollar proyectos en Python.
+- Java y Kotlin: IntelliJ es la mejor opción ya que integra todo lo necesario para desarrollar proyectos en Java y Kotlin.
 
 ---
 
 ## Identificación de "mejores" por categoría
 
 ### 🏆 Mejor IDE general
-**[Nombre del IDE]**
-- Razones: [...]
+**VS Code**
+- Razones: Es el IDE que más lenguajes soporta y más extensión de plugins tiene
 
 ### 🚀 Mejor rendimiento
-**[Nombre del IDE]**
-- Razones: [...]
+**Webstorm, PyCharm y Intellij**
+- Razones: Son los que mejor rendimiento tienen en grandes proyectos
 
 ### 🎨 Mejor personalización
-**[Nombre del IDE]**
-- Razones: [...]
+**VS Code**
+- Razones: Gran extensión de plugins de personalización
 
 ### 🔌 Mejor ecosistema de plugins
-**[Nombre del IDE]**
-- Razones: [...]
+**Webstorm, PyCharm y Intellij**
+- Razones: Tienen plugins dedicados al tipo de desarrollo para los que estos IDEs están preparados
 
 ### 💰 Mejor relación calidad-precio
-**[Nombre del IDE]**
-- Razones: [...]
+**VS Code**
+- Razones: Es gratuito y ofrece un gran nivel de desarrollo
 
 ### 👶 Mejor para principiantes
-**[Nombre del IDE]**
-- Razones: [...]
+**VS Code**
+- Razones: Es bastante simple e intuitivo de usar
 
 ### 👨‍💼 Mejor para profesionales
-**[Nombre del IDE]**
-- Razones: [...]
+**Webstorm, PyCharm y Intellij**
+- Razones: Los desarrolladores profesionales trabajan mejor con entornos en los que se ofrecen herramientas y plugins dedicados exclusivamente a un tipo de desarrollo en específico.
 
 ---
 
