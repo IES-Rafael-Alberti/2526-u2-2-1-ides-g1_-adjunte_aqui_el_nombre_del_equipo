@@ -16,8 +16,8 @@
 [Tu respuesta aquí]
 
 ## Evidencias
-![Instalación IDE 1](capturas/punto1_ide1_instalacion.png)
-![Instalación IDE 2](capturas/punto1_ide2_instalacion.png)
+![Instalación IDE 1](../DBH/capturas/punto1_ide1_instalacion.png)
+![Instalación IDE 2](../DBH/capturas/punto1_ide2_instalacion.png)
 
 ## Observaciones
 [Comentarios adicionales sobre el proceso de instalación]

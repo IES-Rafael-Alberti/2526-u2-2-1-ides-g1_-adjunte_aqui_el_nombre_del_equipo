@@ -23,8 +23,8 @@ Programa "cuenta atrás" en Python que cuenta de 10 a 0 y luego imprime "¡Despe
 [Tu respuesta aquí]
 
 ## Evidencias
-![Ejecución en IDE 1](capturas/punto6_ide1_ejecucion.png)
-![Ejecución en IDE 2](capturas/punto6_ide2_ejecucion.png)
+![Ejecución en IDE 1](../DBH/capturas/punto6_ide1_ejecucion.png)
+![Ejecución en IDE 2](../DBH/capturas/punto6_ide2_ejecucion.png)
 
 ## Observaciones
 [Comentarios adicionales]

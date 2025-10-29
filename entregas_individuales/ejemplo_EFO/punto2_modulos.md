@@ -20,8 +20,8 @@ Ejemplos:
 [Tu respuesta aquí]
 
 ## Evidencias
-![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones.png)
-![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones.png)
+![Panel de extensiones IDE 1](../DBH/capturas/punto2_ide1_extensiones.png)
+![Panel de extensiones IDE 2](../DBH/capturas/punto2_ide2_extensiones.png)
 
 ## Observaciones
 [Comentarios adicionales]

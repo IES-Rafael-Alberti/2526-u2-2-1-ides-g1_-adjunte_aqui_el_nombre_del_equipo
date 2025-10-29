@@ -31,8 +31,8 @@ Programa "cuenta atrás" que cuenta de 10 a 0 y luego imprime "¡Despegue!"
 [Tu respuesta aquí]
 
 ## Evidencias
-![Ejecución en lenguaje 1](capturas/punto5_lenguaje1_ejecucion.png)
-![Ejecución en lenguaje 2](capturas/punto5_lenguaje2_ejecucion.png)
+![Ejecución en lenguaje 1](../DBH/capturas/punto5_lenguaje1_ejecucion.png)
+![Ejecución en lenguaje 2](../DBH/capturas/punto5_lenguaje2_ejecucion.png)
 
 ## Observaciones
 [Comentarios adicionales]

@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Eil8wls0)
 # Entornos de desarrollo. Unidad 2
 ## Práctica 2: Evaluación de IDEs
 
@@ -9,11 +10,10 @@
 
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
-| [Nombre Alumno 1] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
+| Oscar García Jaen | ogarjae565@g.educaand.es | OGJ |
+| Dylan Bauti Huelva | dbauhue1708@g.educaand.es | DBH |
+| Aarón Gallardo Canto | agalcan1410@g.educaand.es | AGC |
+| Mario Montes Bermudez | mmonber326@g.educaand.es | MMB |
 
 ---
 
