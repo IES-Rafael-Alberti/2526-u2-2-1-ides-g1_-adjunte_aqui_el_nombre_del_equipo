@@ -28,9 +28,7 @@
 | **Automatización de tareas**          | 🔌 Terminal integrado, tareas configurables | 🔌 Integración con npm, Gulp, etc. | 🔌 Terminal integrado | 🔌 Integración con Gradle/Maven | 🔌 Integración con herramientas Python |
 | **Soporte para múltiples lenguajes**  | ✅ Sí             | ⚠️ Limitado (JS/TS) | ✅ Sí           | ✅ Sí            | ⚠️ Sí (principalmente Python) |
 | **Personalización del entorno**       | ✅ Muy alta       | ✅ Alta          | ✅ Alta         | ✅ Alta          | ✅ Alta          |
-| **Integración con bases de datos**    | 🔌 Extensiones    | ✅ Integrado (DataGrip) | ✅ Integrado    | ✅ Integrado     | ✅ Integrado     |
 | **Pruebas automatizadas**             | 🔌 Extensiones    | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
-| **Soporte para frameworks**           | 🔌 Extensiones    | ✅ Muy bueno (JS frameworks) | ⚠️ Bueno       | ✅ Muy bueno     | ✅ Muy bueno (Django, Flask, etc.) |
 | **Configuración de entornos virtuales** | 🔌 Extensiones   | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado (venv, conda) |
 | **Herramientas de análisis de código**| 🔌 Extensiones    | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado     |
 | **Soporte para compilación/Maven/Gradle** | 🔌 Extensiones  | ✅ Integrado      | ✅ Integrado     | ✅ Integrado     | ✅ Integrado (para Python) |
@@ -53,7 +51,7 @@ Recomendado para desarrollo web con JavaScript y TypeScript. Ofrece herramientas
 IDE moderno de JetBrains, enfocado en agilidad y colaboración en tiempo real. Soporta varios lenguajes. Destaca por su rapidez y entorno minimalista. Actualmente en desarrollo activo, puede que algunas funciones esten menos pulidas que en los IDEs clásicos.
 
 ### IntelliJ IDEA
-Uno de los IDEs más completos para desarrollo en Java y otros lenguajes JVM. Su soporte para frameworks, herramientas de análisis, integración con sistemas de compilación (Maven, Gradle) y pruebas automatizadas es sobresaliente. La versión *Community* es gratuita, pero la *Professional* es de pago.
+Uno de los IDEs más completos para desarrollo en Java y otros lenguajes JVM. Su soporte para frameworks, herramientas de análisis, integración con sistemas de compilación (Maven, Gradle) y pruebas automatizadas es sobresaliente. La versión *Community* es gratuita, pero la *Ultimate* es de pago.
 
 ---
 
