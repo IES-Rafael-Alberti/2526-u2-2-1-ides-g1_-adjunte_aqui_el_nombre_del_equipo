@@ -1,11 +1,11 @@
 # Punto 1: Instalación de entornos de desarrollo, propietarios y libres
 
 ## IDEs utilizados
-- **IDE 1:** [Pycharm Professional] - Versión 25.2.4
+- **IDE 1:** [PyCharm Professional] - Versión 25.2.4
 - **IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
-Explica el proceso de instalación de ambos IDEs, sistema operativo utilizado, etc.
+Explico todo el proceso de instalación de ambos IDEs, sistema operativo utilizado, etc.
 
 ## Proceso de instalación
 
@@ -35,6 +35,6 @@ Explica el proceso de instalación de ambos IDEs, sistema operativo utilizado, e
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Qué diferencias encontraste en el proceso de instalación entre el IDE propietario y el libre?
-- La diferencia que he encontrado es que para acceder a Pycharm Professional requieres de una suscripción o una cuenta de estudiante mientras que para Fleet solo necesitas descargarlo.
+- La diferencia que he encontrado es que para acceder a PyCharm Professional requieres de una suscripción o una cuenta de estudiante mientras que para Fleet solo necesitas descargarlo.
 ### Pregunta 2: ¿Qué ventajas identificaste en cada uno de los entornos durante la instalación?
 - No noté ninguna diferencia de instalacion ya que ambos forman parte de la Toolbox de Jetbrains asi que el proceso de instalación es el mismo.
