@@ -1,8 +1,8 @@
 # Punto 3: Personalización y automatización del entorno
 
 ## IDEs utilizados
-**IDE 1:** [PyCharm Professional] - Versión 25.2.4
-**IDE 2:** [Fleet] - Versión 1.48.261
+-**IDE 1:** [PyCharm Professional] - Versión 25.2.4
+-**IDE 2:** [Fleet] - Versión 1.48.261
 
 ## Descripción de la tarea
 Explico qué personalizaciones realizé: tema, atajos de teclado, automatización de tareas
