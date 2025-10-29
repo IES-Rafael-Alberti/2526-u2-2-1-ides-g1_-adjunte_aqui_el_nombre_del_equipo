@@ -30,15 +30,15 @@ En VS Code simplemente hay que dirigirse a la barra lateral izquierda y ahí apa
 
 ## Evidencias
 ## Extensiones VS Code
-![Panel de extensiones IDE 1](/entregas_individuales/MMB/capturas/extensiones_vs1.png)
+![Panel de extensiones VS Code](/entregas_individuales/MMB/capturas/extensiones_vs1.png)
 
-![Panel de extensiones IDE 1](/entregas_individuales/MMB/capturas/extensiones_vs2.png)
+![Panel de extensiones VS Code](/entregas_individuales/MMB/capturas/extensiones_vs2.png)
 
-![Panel de extensiones IDE 1](/entregas_individuales/MMB/capturas/extensiones_vs3.png)
+![Panel de extensiones VS Code](/entregas_individuales/MMB/capturas/extensiones_vs3.png)
 
 
 ## Extensiones PyCharm
-![Panel de extensiones IDE 2](/entregas_individuales/MMB/capturas/extensiones_pycharm1.png)
+![Panel de extensiones PyCharm](/entregas_individuales/MMB/capturas/extensiones_pycharm1.png)
 
-![Panel de extensiones IDE 2](/entregas_individuales/MMB/capturas/extensiones_pycharm2.png)
+![Panel de extensiones PyCharm](/entregas_individuales/MMB/capturas/extensiones_pycharm2.png)
 

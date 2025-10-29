@@ -20,29 +20,29 @@ Una ventaja de PyCharm es que la JetBrains Toolbox te avisa cuando el IDE necesi
 
 ## Evidencias
 ## Instalación VS Code
-![Instalación IDE 1](/entregas_individuales/MMB/capturas/descarga1_vs.png)
+![Instalación VS Code](/entregas_individuales/MMB/capturas/descarga1_vs.png)
 
-![Instalación IDE 1](/entregas_individuales/MMB/capturas/descarga2_vs.png)
+![Instalación VS Code](/entregas_individuales/MMB/capturas/descarga2_vs.png)
 
-![Instalación IDE 1](/entregas_individuales/MMB/capturas/descarga3_vs.png)
+![Instalación VS Code](/entregas_individuales/MMB/capturas/descarga3_vs.png)
 
-![Instalación IDE 1](/entregas_individuales/MMB/capturas/descarga4_vs.png)
+![Instalación VS Code](/entregas_individuales/MMB/capturas/descarga4_vs.png)
 
 
 ## Instalación PyCharm
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga1_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga1_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga2_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga2_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga3_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga3_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga4_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga4_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga5_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga5_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga6_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga6_pycharm.png)
 
-![Instalación IDE 2](/entregas_individuales/MMB/capturas/descarga7_pycharm.png)
+![Instalación PyCharm](/entregas_individuales/MMB/capturas/descarga7_pycharm.png)
 
 
 

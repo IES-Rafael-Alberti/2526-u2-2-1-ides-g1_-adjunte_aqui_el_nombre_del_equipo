@@ -23,27 +23,27 @@ En ambos IDEs he modificado el tema y he añadido atajos de teclado, respecto a 
 
 ## Evidencias
 **ANTES:**
-![Entorno antes IDE 1](/entregas_individuales/MMB/capturas/vs_antes1.png)
+![Entorno antes VS Code](/entregas_individuales/MMB/capturas/vs_antes1.png)
 
-![Entorno antes IDE 2](/entregas_individuales/MMB/capturas/pycharm_antes1.png)
+![Entorno antes PyCharm](/entregas_individuales/MMB/capturas/pycharm_antes1.png)
 
 **DESPUÉS:**
 Tema:
-![Entorno después IDE 1](/entregas_individuales/MMB/capturas/vs_despues_1.png)
+![Entorno después VS Code](/entregas_individuales/MMB/capturas/vs_despues_1.png)
 
 Atajo de teclado:
-![Entorno después IDE 1](/entregas_individuales/MMB/capturas/vs_atajo_teclado_terminal.png)
+![Entorno después VS Code](/entregas_individuales/MMB/capturas/vs_atajo_teclado_terminal.png)
 
 Tema:
-![Entorno después IDE 2](/entregas_individuales/MMB/capturas/pycharm_despues1.png)
+![Entorno después PyCharm](/entregas_individuales/MMB/capturas/pycharm_despues1.png)
 
 Atajo de teclado:
-![Entorno después IDE 2](/entregas_individuales/MMB/capturas/pycharm_atajo_teclado_comentar.png)
+![Entorno después PyCharm](/entregas_individuales/MMB/capturas/pycharm_atajo_teclado_comentar.png)
 
 **AUTOMATIZACIÓN:**
 El archivo python.json configurado para el autocompletado del main:
-![Entorno después IDE 1](/entregas_individuales/MMB/capturas/vs_despues_snippets.png)
+![Entorno después VS Code](/entregas_individuales/MMB/capturas/vs_despues_snippets.png)
 
 Ejecutar tests
-![Automatización IDE 2](/entregas_individuales/MMB/capturas/pycharm_ejecutar_tests_automatico.png)
+![Automatización PyCharm](/entregas_individuales/MMB/capturas/pycharm_ejecutar_tests_automatico.png)
 

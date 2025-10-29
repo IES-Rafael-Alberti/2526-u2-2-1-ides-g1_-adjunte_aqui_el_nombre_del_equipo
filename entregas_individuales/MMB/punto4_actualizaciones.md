@@ -19,9 +19,9 @@ Es importante por las siguientes razones: algunas actualizaciones corrigen error
 
 ## Evidencias
 ### VS Code
-![Configuración actualizaciones IDE 1](/entregas_individuales/MMB/capturas/configuracion_actualizaciones_vs.png)
+![Configuración actualizaciones VS Code](/entregas_individuales/MMB/capturas/configuracion_actualizaciones_vs.png)
 
 ### PyCharm
-![Configuración actualizaciones IDE 2](/entregas_individuales/MMB/capturas/configuracion_actualizaciones_pycharm.png)
+![Configuración actualizaciones PyCharm](/entregas_individuales/MMB/capturas/configuracion_actualizaciones_pycharm.png)
 
 
