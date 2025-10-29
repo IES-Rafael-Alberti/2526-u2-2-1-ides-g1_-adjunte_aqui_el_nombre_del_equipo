@@ -43,7 +43,8 @@
 
 ### 1. ¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?
 
-
+Respecto a la depuración y edición de código, todos comparten la forma en la que se realiza, ya que es muy parecida en todos los IDEs. 
+A diferencia de los demás IDEs, Fleet no tiene integración de control de versiones y en VS Code hay que descargar un plugin para esto, en los demás se ofrece la integración de control de versiones de forma nativa
 
 ---
 
